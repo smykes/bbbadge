@@ -1,0 +1,115 @@
+body {
+  background: #444444;
+  font-family: sans-serif;
+}
+.horizontal-large {
+  width: 280px;
+  height: 120px;
+}
+.horizontal-medium {
+  width: 240px;
+  height: 80px;
+}
+.horizontal-small {
+  width: 160px;
+  height: 40px;
+}
+.vertical-large {
+  height: 320px;
+  width: 120px;
+}
+.vertical-medium {
+  height: 240px;
+  width: 80px;
+}
+.vertical-small {
+  height: 160px;
+  width: 80px;
+}
+#location {
+  color: #8aba56;
+  text-align: right;
+  margin-right: 35px;
+}
+#followers div,
+#shots div,
+#likes div {
+  text-transform: uppercase;
+  font-size: .5em;
+  text-align: center;
+}
+#name {
+  color: #444444;
+  font-size: 1.75em;
+  font-weight: 800;
+  text-align: right;
+  font-family: helvetica;
+  padding: 15px 35px 0 15px;
+}
+#countContainer {
+  clear: both;
+}
+#followers,
+#shots,
+#likes,
+#empty {
+  clear: none;
+  bottom: 0px;
+  text-align: center;
+  height: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 70px;
+  position: absolute;
+}
+#followers {
+  background: #FFE564;
+  width: 70px;
+  float: left;
+  bottom: 0px;
+  left: 0;
+}
+#shots {
+  background: #EA5C9B;
+  float: left;
+  left: 70px;
+}
+#likes {
+  background: #58B6E0;
+  float: left;
+  left: 140px;
+}
+#empty {
+  background: #444444;
+  float: left;
+  left: 210px;
+  color: white;
+  font-size: 24px;
+}
+#user_name {
+  color: #8aba56;
+  font-style: italic;
+  font-size: .9em;
+}
+.badge {
+  border-top: solid 1px #eeeeee;
+  border-left: solid 1px #eeeeee;
+  border-right: solid 1px #eeeeee;
+  border-bottom: solid 1px #eeeeee;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background: #fff;
+  color: #444444;
+  box-shadow: 0px 1px 4px #000;
+  border: none;
+  position: relative;
+}
+.avatar {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  float: left;
+  clear: none;
+  margin-right: 5px;
+  margin: 10px;
+}
