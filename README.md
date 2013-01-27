@@ -28,7 +28,7 @@ $('document').ready(function() {
 ```
 
 ###Notes 
-This is my first time using Git for version control, I appologize if there are a bunch of junk files in the project, I'm trying to lean as I go.
+This is my first time using Git for version control, I appologize if there are a bunch of junk files in the project, I'm trying to learn as I go.
 
 ###Disclaimer
 Dribbble belongs to Dribbble, LLC, if you use this adhere to their rules.  If this plug-in breaks anything, it's not my fault.  User beware.
