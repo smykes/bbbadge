@@ -3,7 +3,7 @@ bbbadge
 
 ###Introduction
 
-bbbadge is a simple jQuery plugin for displaying <a href="http://www.dribble.com/">dribbble</a> player stats on a personal website or portfolio.
+bbbadge is a simple jQuery plugin for displaying <a href="http://www.Dribbble.com/">dribbble</a> player stats on a personal website or portfolio.
 
 ###Usage
 
@@ -26,3 +26,9 @@ $('document').ready(function() {
 	$("#myDiv").bbbadge({});
 });
 ```
+
+###Notes 
+This is my first time using Git for version control, I appologize if there are a bunch of junk files in the project, I'm trying to lean as I go.
+
+###Disclaimer
+Dribbble belongs to Dribbble, LLC, if you use this adhere to their rules.  If this plug-in breaks anything, it's not my fault.  User beware.
