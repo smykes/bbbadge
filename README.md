@@ -23,6 +23,6 @@ Include the following Div inside of your HTML file, where data-id is equal to th
 Last initiate the plugin: 
 ```
 $('document').ready(function() {
-	$("#bbbadge").bbbadge({});
+	$("#myDiv").bbbadge({});
 });
 ```
