@@ -6,26 +6,6 @@ body {
   width: 280px;
   height: 120px;
 }
-.horizontal-medium {
-  width: 240px;
-  height: 80px;
-}
-.horizontal-small {
-  width: 160px;
-  height: 40px;
-}
-.vertical-large {
-  height: 320px;
-  width: 120px;
-}
-.vertical-medium {
-  height: 240px;
-  width: 80px;
-}
-.vertical-small {
-  height: 160px;
-  width: 80px;
-}
 #location {
   color: #8aba56;
   text-align: right;
@@ -45,6 +25,12 @@ body {
   text-align: right;
   font-family: helvetica;
   padding: 15px 35px 0 15px;
+}
+#name a,
+#name a:visited,
+#name a:hover {
+  color: #444444;
+  text-decoration: none;
 }
 #countContainer {
   clear: both;
